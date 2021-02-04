@@ -1,5 +1,8 @@
 # practical-csharp
 『프랙티컬 C# 관용구, 정석, 패턴으로 배우는 C# 프로그래밍 테크닉 』 예제 코드
+
+https://wikibook.co.kr/practical-csharp/
+
 [01부] 준비 편
  
 ▣ 01장: 객체지향 프로그래밍 기초
